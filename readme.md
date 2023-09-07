@@ -7,7 +7,8 @@ The project will simulate a "**Network Packet Processor**"
 My verification tool will:
 1. Conduct unit tests to verify the functionality of each packet processing function.
 2. Perform performance benchmarks on these packet processing functions.
-3. Include a GitHub Actions YAML configuration file for automated 4. build and test pipeline (demonstrating my knowledge in CI tools).
+3. Include a GitHub Actions YAML configuration file for automated tests.
+4. build and test pipeline (demonstrating my knowledge in CI tools).
 
 
 ## Prerequisites
