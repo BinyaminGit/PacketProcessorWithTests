@@ -4,6 +4,7 @@ from packet_processor import (checksum, encrypt, decrypt, validate,
                               drop_invalid_packets, add_headers, remove_headers)
 
 def test_checksum():
+    # checks the checksum is valid
     assert checksum([1, 2, 3]) == 6
 
 def test_encrypt():
